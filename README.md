@@ -4,7 +4,7 @@
 
 Durante meus estudos e práticas em PHP usando o framework Laravel, sempre cultivei o hábito guardar vídeos, links e referências que usei. Este repositório é uma forma que tenho de documentar e contribuir para desenvolvedores interessados. Aproveite!
 
-## Tópicos
+## Referências
 
 ### Repositórios do GitHub
 
@@ -30,14 +30,91 @@ Durante meus estudos e práticas em PHP usando o framework Laravel, sempre culti
 
 ### Medium
 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ### Blog EspecializaTi
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ### Laravel Tricks
 
+- [Página principal](https://laravel-tricks.com/tricks)
+- [How to Save CKEditor Text in Database](https://laravel-tricks.com/tricks/how-to-save-ckeditor-text-in-database-laravel)
+- [How to Create Model Object Controller in Laravel](https://laravel-tricks.com/tricks/how-to-create-model-object-in-controller-in-laravel)
+- [Laravel 5/6/7 Carbon Date Format Example](https://laravel-tricks.com/tricks/laravel-567-carbon-date-format-example)
+- [Validate Is Not A Function In Laravel](https://laravel-tricks.com/tricks/validate-is-not-a-function-in-laravel)
+
 ### Laravel Daily
+
+- [Página principal](https://laraveldaily.com/)
+- [10 Tips About Data Seeding in Laravel](https://laraveldaily.com/10-tips-about-data-seeding-in-laravel/)
+- [From Google API to Google Sign In with Laravel Socialite](https://laraveldaily.com/from-google-api-to-google-sign-in-with-laravel-socialite/)
+- [Laravel Validation: Specify Attribute Names for Error Messages](https://laraveldaily.com/laravel-validation-specify-attribute-names-for-error-messages/)
+
 
 ### Wallace Maxters
 
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ### Pusher 
 
-### Outros blogs- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### Outros blogs
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
