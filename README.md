@@ -8,6 +8,12 @@ Durante meus estudos e práticas em PHP usando o framework Laravel, sempre culti
 
 ### Repositórios do GitHub
 
+- [Laravel Best Practices (pt-BR)](https://github.com/jonaselan/laravel-best-practices)
+- [Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
+- [DomPDF Wrapper For Laravel - Gerar PDF com Laravel](https://github.com/barryvdh/laravel-dompdf)
+- [Guzzle HTTP - Consumir APIs com Laravel](https://github.com/guzzle/guzzle)
+- [Faker - Gerar dados falsos com Laravel](https://github.com/fzaninotto/Faker)
+
 ### Playlists e vídeos do YouTube
 
 - [Enviar e-mail com Laravel](https://www.youtube.com/watch?v=VMq9licFYqk)
@@ -34,4 +40,4 @@ Durante meus estudos e práticas em PHP usando o framework Laravel, sempre culti
 
 ### Pusher 
 
-### Outros blogs
+### Outros blogs- []()
